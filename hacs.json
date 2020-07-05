@@ -1,0 +1,6 @@
+ {
+  "name": "Yandex Cloud SpeechKit",
+  "country": "RU",
+  "render_readme": true,
+  "domains": ["tts"]
+}
